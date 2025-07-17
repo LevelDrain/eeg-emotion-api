@@ -1,2 +1,2 @@
-# fastapi_kome
-米の価格予想アプリ
+# fastapi_eeg-emotion-api
+脳波-感情分析アプリ
