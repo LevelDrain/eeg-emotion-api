@@ -1,5 +1,6 @@
-__pycache__/
 .env
+__pycache__/
+data/
 
 # データベース関連
 alembic.ini
