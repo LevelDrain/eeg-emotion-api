@@ -1,2 +1,2 @@
-# fastapi_eeg_analysis
-脳波分析アプリ（仮）
+# fastapi_eeg-emotion-api
+脳波-感情分析アプリ
